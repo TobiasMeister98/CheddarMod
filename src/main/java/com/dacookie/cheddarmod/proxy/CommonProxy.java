@@ -1,4 +1,4 @@
 package com.dacookie.cheddarmod.proxy;
 
-public class CommonProxy {
+public abstract class CommonProxy implements IProxy {
 }

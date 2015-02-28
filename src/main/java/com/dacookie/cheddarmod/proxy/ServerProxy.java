@@ -1,4 +1,4 @@
 package com.dacookie.cheddarmod.proxy;
 
-public class ServerProxy {
+public class ServerProxy extends CommonProxy {
 }
