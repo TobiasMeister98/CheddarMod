@@ -1,5 +1,5 @@
 # CheddarMod
-####A Minecraft Mod<br>
+####A Minecraft Mod
 Adds cheddar to your minecraft game<br>
 <br>
 Current version: 1.0<br>
