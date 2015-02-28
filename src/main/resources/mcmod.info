@@ -1,0 +1,17 @@
+[
+{
+  "modid": "CheddarMod",
+  "name": "Cheddar Mod",
+  "description": "Adds cheddar to your Minecraft game",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DaCookie"],
+  "credits": "Authored by DaCookie, based on an original idea by Skiddel",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
