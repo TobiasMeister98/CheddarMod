@@ -1,5 +1,6 @@
 package com.dacookie.cheddarmod;
 
+import com.dacookie.cheddarmod.init.ModBlocks;
 import com.dacookie.cheddarmod.handler.ConfigurationHandler;
 import com.dacookie.cheddarmod.init.ModItems;
 import com.dacookie.cheddarmod.proxy.IProxy;
@@ -26,6 +27,7 @@ public class CheddarMod {
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         ModItems.init();
+        ModBlocks.init();
 
         LogHelper.info("Pre Initialization Complete!");
     }
