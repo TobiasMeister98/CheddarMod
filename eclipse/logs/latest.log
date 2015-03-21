@@ -1,11 +1,85 @@
-[21:10:53] [main/INFO]: Setting user: Player939
-[21:10:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:10:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
-[21:11:00] [Sound Library Loader/INFO]: Sound engine started
-[21:11:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:11:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:11:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
-[21:11:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:11:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:11:02] [Sound Library Loader/INFO]: Sound engine started
-[21:11:09] [Client thread/INFO]: Stopping!
+[22:14:00] [main/INFO]: Setting user: Player601
+[22:14:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:14:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
+[22:14:07] [Sound Library Loader/INFO]: Sound engine started
+[22:14:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
+[22:14:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:09] [Sound Library Loader/INFO]: Sound engine started
+[22:14:12] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:14:12] [Server thread/INFO]: Generating keypair
+[22:14:12] [Server thread/INFO]: Preparing start region for level 0
+[22:14:13] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:14:14] [Server thread/INFO]: Player601[local:E:efce87fd] logged in with entity id 146 at (-1553.149721653103, 4.0, -604.0518461759916)
+[22:14:14] [Server thread/INFO]: Player601 joined the game
+[22:14:15] [Server thread/INFO]: Player601 has just earned the achievement [Taking Inventory]
+[22:14:15] [Client thread/INFO]: [CHAT] Player601 has just earned the achievement [Taking Inventory]
+[22:14:18] [Server thread/INFO]: Saving and pausing game...
+[22:14:18] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:18] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:18] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:19] [Server thread/INFO]: Stopping server
+[22:14:19] [Server thread/INFO]: Saving players
+[22:14:19] [Server thread/INFO]: Saving worlds
+[22:14:19] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:19] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:19] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
+[22:14:22] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:22] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:23] [Sound Library Loader/INFO]: Sound engine started
+[22:14:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
+[22:14:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:25] [Sound Library Loader/INFO]: Sound engine started
+[22:14:28] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:14:28] [Server thread/INFO]: Generating keypair
+[22:14:28] [Server thread/INFO]: Preparing start region for level 0
+[22:14:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:14:29] [Server thread/INFO]: Player601[local:E:0be3c8bb] logged in with entity id 15171 at (-1553.149721653103, 4.0, -604.0518461759916)
+[22:14:29] [Server thread/INFO]: Player601 hat das Spiel betreten
+[22:14:29] [Server thread/INFO]: Saving and pausing game...
+[22:14:29] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:29] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:29] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:32] [Server thread/INFO]: Saving and pausing game...
+[22:14:32] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:32] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:32] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:33] [Server thread/INFO]: Stopping server
+[22:14:33] [Server thread/INFO]: Saving players
+[22:14:33] [Server thread/INFO]: Saving worlds
+[22:14:33] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:33] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:33] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
+[22:14:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:42] [Sound Library Loader/INFO]: Sound engine started
+[22:14:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cheddar Mod
+[22:14:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:14:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:14:44] [Sound Library Loader/INFO]: Sound engine started
+[22:14:47] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:14:47] [Server thread/INFO]: Generating keypair
+[22:14:47] [Server thread/INFO]: Preparing start region for level 0
+[22:14:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:14:48] [Server thread/INFO]: Player601[local:E:8a01d368] logged in with entity id 25287 at (-1553.149721653103, 4.0, -604.0518461759916)
+[22:14:48] [Server thread/INFO]: Player601 joined the game
+[22:14:48] [Server thread/INFO]: Saving and pausing game...
+[22:14:48] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:48] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:48] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:50] [Server thread/INFO]: Saving and pausing game...
+[22:14:50] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:50] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:50] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:50] [Server thread/INFO]: Stopping server
+[22:14:50] [Server thread/INFO]: Saving players
+[22:14:50] [Server thread/INFO]: Saving worlds
+[22:14:50] [Server thread/INFO]: Saving chunks for level 'Debug'/Overworld
+[22:14:50] [Server thread/INFO]: Saving chunks for level 'Debug'/Nether
+[22:14:50] [Server thread/INFO]: Saving chunks for level 'Debug'/The End
+[22:14:52] [Client thread/INFO]: Stopping!

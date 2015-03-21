@@ -22,7 +22,7 @@ group= "com.dacookie.cheddarmod" // http://maven.apache.org/guides/mini/guide-na
 archivesBaseName = "CheddarMod"
 
 minecraft {
-    version = "1.7.10-10.13.2.1291"
+    version = "1.7.10-10.13.2.1340-1.7.10"
     runDir = "eclipse"
 }
 
