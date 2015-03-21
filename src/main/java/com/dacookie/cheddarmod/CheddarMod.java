@@ -3,6 +3,7 @@ package com.dacookie.cheddarmod;
 import com.dacookie.cheddarmod.handler.ConfigurationHandler;
 import com.dacookie.cheddarmod.proxy.IProxy;
 import com.dacookie.cheddarmod.reference.Reference;
+import com.dacookie.cheddarmod.utility.LogHelper;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -20,13 +21,16 @@ public class CheddarMod {
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        LogHelper.info("Pre Initialization Complete!");
     }
 
+    @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-
+        LogHelper.info("Initialization Complete!");
     }
 
+    @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {
-
+        LogHelper.info("Post Initialization Complete!");
     }
 }
